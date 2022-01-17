@@ -16,3 +16,8 @@ New-MailboxExportRequest -Mailbox "<MAIL ADRESİ>" -FilePath "<DOSYA YOLU>"
 Talebimizin sıraya alındığını görüyoruz. Talebimizin durumunu kontrol etmek için aşağıdaki komutu çalıştırıyoruz.
 
 Get-MailboxExportRequest -Mailbox "<MAIL ADRESI>" | Get-MailboxExportRequestStatistics
+  
+  
+  Detaylı bilgi için https://www.mshowto.org/exchange-serverda-kullanici-mailboxini-pst-formatinda-disari-aktarmak.html
+  
+  Konuyla ilgili sorularınızı iletisim@zeynelugurlu.com adresinden bana ulaştırabilirsiniz.
